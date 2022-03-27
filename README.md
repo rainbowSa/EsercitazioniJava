@@ -1,2 +1,2 @@
 # EsercitazioniJava
-Esercizi svolri durante un corso Java
+Esercizi svolti durante un corso Java
